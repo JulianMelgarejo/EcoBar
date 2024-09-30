@@ -9,11 +9,13 @@ body {
 
 /* Header styles */
 header {
-    background: url('images/logo-background.jpg') no-repeat center center;
+    background: url('images/logo.png') no-repeat center center;
     background-size: cover;
     padding: 50px;
     text-align: center;
+    color: white; /* Cambia el color del texto si es necesario */
 }
+
 
 header .logo img {
     width: 150px;
