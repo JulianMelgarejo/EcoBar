@@ -63,32 +63,33 @@ p {
 
 /* Estilos para el logo */
 .logo img {
-    max-width: 150px; /* Ajusta el tamaño del logo */
-    display: block;
-    margin: 0 auto;
+  max-width: 150px; /* Ajusta el tamaño del logo */
+  display: block;
+  margin: 0 auto;
 }
 
 /* Estilos para el encabezado */
 header {
-    background: url('images/logo.png') no-repeat center center;
-    background-size: cover;
-    padding: 100px 0; /* Ajusta el espacio alrededor del logo */
-    text-align: center;
+  background: url('images/logo.png') no-repeat center center;
+  background-size: cover;
+  padding: 100px 0; /* Ajusta el espacio alrededor del logo */
+  text-align: center;
 }
 
 /* Estilos para el título (h1) */
 header h1 {
-    color: #FFD700; /* Cambia el color a dorado */
-    font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
-    font-size: 3em; /* Ajusta el tamaño del texto */
-    text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
-    margin-top: 20px; /* Ajusta el margen superior */
+  color: #FFD700; /* Cambia el color a dorado */
+  font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
+  font-size: 3em; /* Ajusta el tamaño del texto */
+  text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
+  margin-top: 0; /* Restablece el margen superior */
 }
 
 /* Estilos para el slogan (p) */
 header p {
-    color: #FFD700; /* Cambia el color a dorado */
-    font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
-    font-size: 1.5em; /* Ajusta el tamaño del texto */
-    text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
+  color: #FFD700; /* Cambia el color a dorado */
+  font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
+  font-size: 1.5em; /* Ajusta el tamaño del texto */
+  text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
+  margin-top: 10px; /* Ajusta el margen superior */
 }
