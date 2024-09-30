@@ -60,3 +60,18 @@ p {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+/* Estilos para el título (h1) en el encabezado */
+header h1 {
+    color: #FFD700; /* Cambia el color a dorado */
+    font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
+    font-size: 3em; /* Ajusta el tamaño del texto */
+    text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
+}
+
+/* Estilos para el eslogan (p) en el encabezado */
+header p {
+    color: #FFD700; /* Cambia el color a dorado */
+    font-family: 'Cursive', sans-serif; /* Cambia a una fuente cursiva */
+    font-size: 1.5em; /* Ajusta el tamaño del texto */
+    text-shadow: 2px 2px 5px black; /* Agrega un sombreado negro para resaltar el texto */
+}
